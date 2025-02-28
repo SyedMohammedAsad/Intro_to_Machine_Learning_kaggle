@@ -1,1 +1,1 @@
-# Intro_to_Machine_Learning_kaggle
+# kaggle_Intro_to_Machine_Learning
