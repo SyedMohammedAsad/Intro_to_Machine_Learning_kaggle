@@ -1,4 +1,4 @@
-Here's your **final README** file with your **GitHub, LinkedIn, and Kaggle** profiles attached! 🚀  
+Here's an updated version of your README file with an additional section on machine learning competitions:
 
 ---
 
@@ -38,6 +38,11 @@ Below is a breakdown of the tasks covered in the course, along with my solutions
 - Implementing and evaluating a **Random Forest model**.  
 - Comparing **Decision Tree vs. Random Forest** performance.  
 
+✅ **7. Machine Learning Competitions**  
+- Understanding how to participate in Kaggle competitions.  
+- Submitting predictions to a competition (e.g., Housing Prices).  
+- Using competitions to improve model performance and compare with peers.  
+
 ---
 
 ### **🚀 How to Use This Repository?**  
@@ -70,3 +75,5 @@ If you found this helpful, feel free to ⭐ the repo and connect with me:
 - **GitHub:** [Syed Mohammed Asad](https://github.com/SyedMohammedAsad)  
 - **LinkedIn:** [Syed Mohammed Asad](https://www.linkedin.com/in/syed-mohammed-asad-226074284/)  
 - **Kaggle:** [Syed Mohammed Asad](https://www.kaggle.com/syedmohammedasad)  
+
+---
